@@ -35,14 +35,14 @@ I developed a proprietary engine to automate the detection of "Inefficient Scali
 # ==============================================================================
 ```
 
-🏆 Business Impact & Results
+### **🏆 Business Impact & Results**
 $1.15 Savings per 1k Users: Directly contributed to higher profit margins during a high-growth phase.
 
 8.4% Efficiency Improvement: Proved that infrastructure optimization outpaced user growth costs.
 
 100% Data Accuracy: Reconciled cloud billing data with user telemetry for a single source of truth.
 
-📂 Repository Structure
+### **📂 Repository Structure**
 unit_economics_engine.py: Proprietary Python automation for cost-threshold monitoring.
 
 reddit_cloud_model.xlsx: Advanced Excel dashboard with automated scaling calculations.
