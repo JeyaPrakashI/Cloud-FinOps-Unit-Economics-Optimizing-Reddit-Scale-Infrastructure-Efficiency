@@ -7,6 +7,7 @@ Optimized Reddit-scale cloud spend by building a Unit Economics model. Managed a
 ---
 
 ### **📈 Strategic Visualization: The "Scissors Effect"**
+
 ![Scaling Efficiency Chart](assets/scaling_efficiency_chart.png)
 
 *This chart proves that while total costs increased, the **cost-to-serve** each user decreased by $1.15, demonstrating massive economies of scale.*
