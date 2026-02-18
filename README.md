@@ -23,7 +23,7 @@ Optimized Reddit-scale cloud spend by building a Unit Economics model. Managed a
 * **Waterfall Analysis**: Quantified the specific drivers of a $170k+ monthly spend variance.
 
 #### **2. Automated Guardrails (Python)**
-I developed a proprietary engine to automate the detection of "Inefficient Scaling." This script ensures that if the unit cost exceeds the **$14.00 efficiency threshold**, an alert is triggered.
+* I developed a proprietary engine to automate the detection of "Inefficient Scaling." This script ensures that if the unit cost exceeds the **$14.00 efficiency threshold**, an alert is triggered.
 
 <details>
 <summary>▶ <b>Click to view Proprietary Python Architecture (unit_economics_engine.py)</b></summary>
